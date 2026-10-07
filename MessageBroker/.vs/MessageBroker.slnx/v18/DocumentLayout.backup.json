@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\messagebroker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\messagebroker\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\messagebroker\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|solutionrelative:models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|c:\\ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\messagebroker\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6591F9-45B8-43D0-94B9-F67424997224}|MessageBroker.csproj|solutionrelative:models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "Models\\Subscription.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Subscription.cs",
+              "RelativeToolTip": "Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:59:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Models\\Topic.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Topic.cs",
+              "RelativeToolTip": "Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:58:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:58:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Ai\\study\\dotnet\\sourcecode\\pratice\\pub-sub-pattern\\MessageBroker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:44:17.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
